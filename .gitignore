@@ -1,2 +1,14 @@
 
 .idea/
+
+GPTx推荐系统/.DS_Store
+
+GPTx推荐系统/llm-developing-newsgpt/embeddings_folder/
+
+GPTx推荐系统/llm-developing-newsgpt/MIND/
+
+GPTx推荐系统/llm-developing-newsgpt/Dmeta-embedding/1_Pooling/
+
+GPTx推荐系统/llm-developing-newsgpt/.env.example
+
+*.bin
