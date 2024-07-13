@@ -12,3 +12,7 @@ GPTx推荐系统/llm-developing-newsgpt/Dmeta-embedding/1_Pooling/
 GPTx推荐系统/llm-developing-newsgpt/.env.example
 
 *.bin
+
+一个简单的实现chatgpt/data/shakespeare_char/
+
+一个简单的实现chatgpt/__pycache__/
